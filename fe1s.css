@@ -1,0 +1,49 @@
+.m{
+  height: 100vh;
+  background-image:url("http://wallpapercave.com/wp/dkSK3Dv.jpg");
+ background-size:cover cover;
+  color:black;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.f{
+  height: 100vh;
+  background-image: url("https://cdn.dribbble.com/users/126311/screenshots/2472572/flight.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.l{
+  height: 100vh;
+  background-image: url("https://wallpapercave.com/wp/wp5483378.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.h{
+  height: 100vh;
+  background-image: url("https://cdn.wallpapersafari.com/1/71/ZnadOL.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+.button_right{
+ margin-left:  1200px;
+
+}
+.conupb{
+  height: 100vh;
+  background-image:url("https://tse2.mm.bing.net/th?id=OIP.oGiwmpGDn4TP0iiAsqIzsQHaEo&pid=Api&P=0&h=180");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+}
+.L{
+  height: 100vh;
+  background-image:url("http://graphicloads.com/wp-content/uploads/2015/09/Airline-Logos.jpg");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+
+}
